@@ -1,0 +1,8 @@
+## Interface: 50001
+## Title: SimpleSpam
+## Notes: Simple Gold Spam Blocker
+## Version: 1.0.1
+## Author: Integers - Blackrock
+## SavedVariables: SSBlocked
+
+SimpleSpam.lua
